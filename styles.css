@@ -1,0 +1,16 @@
+#electroHeading {
+    position: center;
+    font-family: Verdana;
+    color: white;
+}
+
+#electroParagraph {
+    color: red;
+    font-size: 35px;
+    color: white;
+}
+
+body {
+    background-image: url('elektroschrott-data.jpg');
+    background-size: 500px;
+}
